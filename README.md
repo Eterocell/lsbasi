@@ -28,10 +28,12 @@ implementation)
 
 ## Environment
 
-* Kotlin 1.5.21
-* JDK 11
-* Gradle 7.1.1
++ Kotlin 1.5.21
+
++ JDK 11
+
++ Gradle 7.1.1
 
 Preferably
 
-* IntelliJ IDEA 2021.1
++ IntelliJ IDEA 2021.1

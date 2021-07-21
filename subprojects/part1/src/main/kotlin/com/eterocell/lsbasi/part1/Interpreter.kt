@@ -69,7 +69,7 @@ class Interpreter constructor(private var text: String) {
     this.eat(Type.INTEGER)
 
     // we expect the current token to be a '+' token
-    val op = this.currentToken
+//    val op = this.currentToken
     this.eat(Type.PLUS)
 
     // we expect the current token to be a single-digit integer
