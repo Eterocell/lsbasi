@@ -31,14 +31,12 @@ tasks {
   compileKotlin {
     kotlinOptions {
       jvmTarget = "11"
-      freeCompilerArgs = freeCompilerArgs + "-Xopt-in=kotlin.RequiresOptIn"
     }
   }
 
   compileTestKotlin {
     kotlinOptions {
       jvmTarget = "11"
-      freeCompilerArgs = freeCompilerArgs + "-Xopt-in=kotlin.RequiresOptIn"
     }
   }
 
