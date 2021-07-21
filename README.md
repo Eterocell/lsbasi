@@ -1,7 +1,10 @@
 # Let's Build a Simple Interpreter
 
 **WIP**
-Source code for the series **Let's Build A Simple Interpreter** (Kotlin-JVM implementation)
+Source code for the series **Let's Build A Simple Interpreter** (Kotlin-JVM
+implementation)
+
+## @rspivak's **Let's Build A Simple Interpreter** series
 
 + [Let's Build A Simple Interpreter. Part 1.](https://ruslanspivak.com/lsbasi-part1/)
 + [Let's Build A Simple Interpreter. Part 2.](https://ruslanspivak.com/lsbasi-part2/)
@@ -22,3 +25,13 @@ Source code for the series **Let's Build A Simple Interpreter** (Kotlin-JVM impl
 + [Let's Build A Simple Interpreter. Part 17.](https://ruslanspivak.com/lsbasi-part17/)
 + [Let's Build A Simple Interpreter. Part 18: Executing Procedure Calls](https://ruslanspivak.com/lsbasi-part18/)
 + [Let's Build A Simple Interpreter. Part 19: Nested Procedure Calls](https://ruslanspivak.com/lsbasi-part19/)
+
+## Environment
+
+* Kotlin 1.5.21
+* JDK 11
+* Gradle 7.1.1
+
+Preferably
+
+* IntelliJ IDEA 2021.1
