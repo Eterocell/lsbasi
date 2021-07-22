@@ -4,7 +4,8 @@ include(
   "part1",
   "part2",
   "part3",
-  "part4"
+  "part4",
+  "part5"
 )
 
 for (project in rootProject.children) {
