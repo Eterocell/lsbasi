@@ -29,9 +29,7 @@ implementation)
 ## Environment
 
 + Kotlin 1.5.21
-
 + JDK 11
-
 + Gradle 7.1.1
 
 Preferably
