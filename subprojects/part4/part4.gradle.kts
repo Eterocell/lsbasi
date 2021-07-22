@@ -25,6 +25,12 @@ dependencies {
     "junit-jupiter-engine",
     Versions.junitVersion
   )
+  testImplementation(
+    "org.junit.jupiter",
+    "junit-jupiter",
+    Versions.junitVersion
+  )
+
 }
 
 tasks {
@@ -43,8 +49,4 @@ tasks {
   getByName<Test>("test") {
     useJUnitPlatform()
   }
-}
-
-application {
-  mainClass.set("com.eterocell.lsbasi.part3.Calc3Kt")
 }

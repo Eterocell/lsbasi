@@ -3,7 +3,8 @@ rootProject.name = "lsbasi"
 include(
   "part1",
   "part2",
-  "part3"
+  "part3",
+  "part4"
 )
 
 for (project in rootProject.children) {
