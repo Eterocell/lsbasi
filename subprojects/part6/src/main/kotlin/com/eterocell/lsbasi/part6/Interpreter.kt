@@ -38,7 +38,7 @@ class Interpreter constructor(private val lexer: Lexer) {
    * term : factor ((MUL | DIV) factor)*
    */
   fun term(): Int {
-    var result = factor()!!.toInt()
+    var result = factor()
 
     while (currentToken.type == Type.MUL ||
       currentToken.type == Type.DIV

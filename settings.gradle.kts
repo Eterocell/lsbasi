@@ -6,7 +6,8 @@ include(
   "part3",
   "part4",
   "part5",
-  "part6"
+  "part6",
+  "part7"
 )
 
 for (project in rootProject.children) {
